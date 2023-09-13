@@ -44,7 +44,7 @@ To compile and run this application, you need:
 1. Clone the repository to your local machine:
 
 ```bash
-  git clone https://github.com/inerttila/Registration-System.git
+git clone https://github.com/inerttila/Registration-System.git
 ```
 
 2. Navigate to the project's directory:
