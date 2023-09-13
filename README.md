@@ -1,6 +1,6 @@
-# Qytetar Management Application
+# "Qytetar" Management Application
 
-The Qytetar Management Application is a C++ program for managing and storing information about citizens. It offers various functionalities, including registration, modification, search, and display of citizen data. The application also allows you to save and load citizen records from a file.
+The "Qytetar" Management Application is a C++ program for managing and storing information about citizens. It offers various functionalities, including registration, modification, search, and display of citizen data. The application also allows you to save and load citizen records from a file.
 
 ## Table of Contents
 
@@ -13,11 +13,11 @@ The Qytetar Management Application is a C++ program for managing and storing inf
 
 ## Introduction
 
-The Qytetar Management Application simplifies the process of managing citizen data efficiently. It provides an organized system for storing information about citizens, including their names, surnames, addresses, IDs, and phone numbers. This application is useful for various scenarios where citizen data needs to be recorded and accessed quickly.
+The "Qytetar" Management Application simplifies the process of managing citizen data efficiently. It provides an organized system for storing information about citizens, including their names, surnames, addresses, IDs, and phone numbers. This application is useful for various scenarios where citizen data needs to be recorded and accessed quickly.
 
 ## Features
 
-The Qytetar Management Application offers the following features:
+The "Qytetar" Management Application offers the following features:
 
 - **Registration:** Register new citizens by providing their details, including name, surname, address, ID, and phone number.
 
