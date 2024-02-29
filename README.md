@@ -9,7 +9,6 @@ The "Qytetar" Management Application is a C++ program for managing and storing i
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -70,11 +69,3 @@ g++ main.cpp -o qytetar_app
 2. Follow the on-screen menu to perform various operations like registration, modification, search, display, and more.
 
 3. Your citizen data will be stored in the program and can be saved to a file for later use.
-
-## Contact
-
-For inquiries or assistance, feel free to reach out through the following channels:
-
-- LinkedIn: [Inert Tila](https://al.linkedin.com/in/inerttila)
-
-You can email me for any questions or support related to this project, and you can also connect with me on LinkedIn to stay updated on my professional activities.
