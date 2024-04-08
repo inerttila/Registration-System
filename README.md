@@ -1,3 +1,6 @@
+
+Software Developer | Python, Django, JavaScript | Docker | Cloud Computing | Web Development
+
 # "Qytetar" Management Application
 
 The "Qytetar" Management Application is a C++ program for managing and storing information about citizens. It offers various functionalities, including registration, modification, search, and display of citizen data. The application also allows you to save and load citizen records from a file.
