@@ -1,6 +1,6 @@
-# "Qytetar" Management Application
+# "The population" Management Application
 
-The "Qytetar" Management Application is a C++ program for managing and storing information about citizens. It offers various functionalities, including registration, modification, search, and display of citizen data. The application also allows you to save and load citizen records from a file.
+The "The population" Management Application is a C++ program for managing and storing information about citizens. It offers various functionalities, including registration, modification, search, and display of citizen data. The application also allows you to save and load citizen records from a file.
 
 ## Table of Contents
 
@@ -12,11 +12,11 @@ The "Qytetar" Management Application is a C++ program for managing and storing i
 
 ## Introduction
 
-The "Qytetar" Management Application simplifies the process of managing citizen data efficiently. It provides an organized system for storing information about citizens, including their names, surnames, addresses, IDs, and phone numbers. This application is useful for various scenarios where citizen data needs to be recorded and accessed quickly.
+The "The population" Management Application simplifies the process of managing citizen data efficiently. It provides an organized system for storing information about citizens, including their names, surnames, addresses, IDs, and phone numbers. This application is useful for various scenarios where citizen data needs to be recorded and accessed quickly.
 
 ## Features
 
-The "Qytetar" Management Application offers the following features:
+The "The population" Management Application offers the following features:
 
 - **Registration:** Register new citizens by providing their details, including name, surname, address, ID, and phone number.
 
@@ -55,7 +55,7 @@ cd  Registration-System
 3. Compile the C++ code using a C++ compiler (e.g., g++):
 
 ```bash
-g++ main.cpp -o qytetar_app
+g++ main.cpp -o population_app
 ```
 
 ## Usage
@@ -63,7 +63,7 @@ g++ main.cpp -o qytetar_app
 1. Run the compiled application:
 
 ```bash
-./qytetar_app
+./population_app
 ```
 
 2. Follow the on-screen menu to perform various operations like registration, modification, search, display, and more.
